@@ -25,8 +25,8 @@ Prisma · Socket.IO · BullMQ · OIDC · GIS · Monorepos · REST APIs
 
 | Area      | Technologies                                            |
 | --------- | -------------------------------------------------------- |
-| Frontend  | React · Vite · React Query · MUI · i18next                |
 | Languages | TypeScript · JavaScript · Python · PHP                    |
+| Frontend  | React · Vite · React Query · MUI · i18next                |
 | Backend   | Node.js · Fastify · Express · Flask                       |
 | Data      | PostgreSQL · PostGIS · Redis · MariaDB · MySQL · Prisma   |
 | Realtime  | Socket.IO                                                  |
